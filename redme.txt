@@ -1,0 +1,11 @@
+en esta parte ubicare ciertas anotaciones que seran importantes para el manejo del repositorio como por ejemplo:
+ultimos cambios, versionamientos, mi git alias, etc...
+
+
+GIT ALIAS:
+
+1. alias.last 'log -1 HEAD'
+2. alias.co checkout
+3. alias.conb 'checkout -b'
+4. alias.br branch
+5. alias.ci commit

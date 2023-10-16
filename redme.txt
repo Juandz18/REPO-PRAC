@@ -9,3 +9,10 @@ GIT ALIAS:
 3. alias.conb 'checkout -b'
 4. alias.br branch
 5. alias.ci commit
+6. alias.cim 'commit -m'
+7. alias.st status
+8. alias.h 'log --graph'
+9. alias.hd 'log --graph -p'
+10. alias.ad 'add .'
+
+para cambiar los alias se debe usar el comando: "git config --global --edit"
